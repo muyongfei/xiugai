@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+	outline: none;
+}
+.box{
+	width: 500px;
+	height: auto;
+	margin: 0  auto;
+}
+table{
+	height: auto;
+}
+tr,td,th{
+	padding: 8px;
+}
+button{
+	background: red;
+	width: 80%;
+	height: 50%;
+}
+.tianjia{
+        width: 50px;
+        height: 30px;
+        text-align: center;
+      	margin: 0  auto;
+      	margin-top: 10px;
+        background-color: deepskyblue;
+        border: 0;
+        font-size: 18px;
+        display: block;
+}
+.tian{
+	width: 100%;
+	height: auto;
+}
